@@ -1,2 +1,2 @@
-# Rare Diseases Hackathon
+# Digital ScienceHackathon
 
